@@ -1,7 +1,7 @@
 var nota = 10;
 
 // faz cálculos de potências
-nota.toExponential(2);
+nota.toExponential(2);  
 
 // arredonda até o numero informado na função 
 nota.toFixed(2);
